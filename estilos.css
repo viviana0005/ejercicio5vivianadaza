@@ -1,0 +1,116 @@
+.swiper-container {
+    width: 600px;
+    height: 400px;
+    padding: 50px;
+  }
+
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 400px;
+    height: 300px;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 500px;
+    height: 300px ;
+    padding: 50px;
+  }
+
+.servicios{
+  padding: 30px;
+  margin: 30px;
+  margin-top: 38px;
+  
+}
+  
+
+
+
+h2{
+  color: brown;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+
+.li{
+  color: brown;
+  align-content: center;
+}
+
+
+.voluntariado__contenedor{
+  padding: 100px;
+  margin: 100px;
+  width:auto;
+height: 100px;
+color: brown;
+margin-bottom: 30%;
+text-align: left;
+}
+
+
+.imagenes__galeria{
+  margin-top: 10em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: burlywood;
+}
+
+
+.item{
+  padding-top: 10px;
+  width: 32%;
+  padding-bottom: 10%; /* Same as width, sets height */
+   /* (100-32*3)/2 */
+  position: relative;
+
+  align-items:flex-end;
+}
+
+
+img {
+  width: 50%;
+  height: auto;
+  border-radius: 9px 9px 9px 9px;
+  align-self: center;
+}
+
+
+
+
+
+
+.quienes__somos{
+  text-align: center;
+  margin-top: 10%;
+}
+
+p{
+  text-align: center;
+  padding: 20px;
+}
+
+
+
+.footer{
+  background-color:khaki;
+  width: 100%;
+  height: 300px;
+  bottom: 0;
+  position: fixed;
+  color: brown;
+  text-align: center;
+  padding: 12px;
+}
+
+.textos__contacto{
+  padding: 70px;
+}
